@@ -14,8 +14,7 @@
 ---
 
 1) Publicar el proyecto en GitHub
-2) Publicarlo en GitHub Pages: [¿Cómo publicar mi proyecto con GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) 
-3) Utiliza el tema/topic:
+2) Utiliza el tema/topic:
 
  - Grupo 1: **challengeoneconversorlatam**
 
@@ -27,12 +26,12 @@ Incluye la etiqueta "**challengeoneconversorlatam**"
 ## ¿Cómo hago la entrega final de mi proyecto?
 ---
 
-4) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
+3) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
 🔹 [link del formulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
 
 ![formulario-latam](https://user-images.githubusercontent.com/91544872/153603386-7624de4a-8838-4fbc-9466-54222ef3f672.png)
 
-5) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
-6) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
+4) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
+5) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
 
      <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
