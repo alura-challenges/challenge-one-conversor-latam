@@ -17,9 +17,10 @@
 2) Utiliza el tema/topic:
 
  - Grupo 1: **challengeoneconversorlatam**
+ - Grupo 2: **challengeoneconversorlatam2**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeoneconversorlatam**"
+Incluye la etiqueta "**challengeoneconversorlatam2**"
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
@@ -29,7 +30,7 @@ Incluye la etiqueta "**challengeoneconversorlatam**"
 3) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
 🔹 [link del formulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
 
-![formulario-latam](https://user-images.githubusercontent.com/91544872/153603386-7624de4a-8838-4fbc-9466-54222ef3f672.png)
+![formulario-esp](https://user-images.githubusercontent.com/91544872/179625558-4dda7e69-bdaf-4a79-9ca9-82cf8fede9de.png)
 
 4) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
 5) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
