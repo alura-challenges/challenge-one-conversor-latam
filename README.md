@@ -18,6 +18,7 @@
 
  - Grupo 1: **challengeoneconversorlatam**
  - Grupo 2: **challengeoneconversorlatam2**
+ - Grupo 3: **challengeoneconversorlatam3**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
 Incluye la etiqueta "**challengeoneconversorlatam2**"
