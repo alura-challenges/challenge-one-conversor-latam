@@ -16,11 +16,10 @@
 1) Publicar el proyecto en GitHub
 2) Utiliza el tema/topic:
 
- - Grupo 1: **challengeoneconversorlatam**
- - Grupo 2: **challengeoneconversorlatam2**
+ - Grupo 3: **challengeoneconversorlatam3**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeoneconversorlatam2**"
+Incluye la etiqueta "**challengeoneconversorlatam3**"
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
